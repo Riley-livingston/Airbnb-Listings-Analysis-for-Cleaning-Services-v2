@@ -23,7 +23,7 @@ This project consists of exploritory analysis of publicly available Airbnb data.
 <h2>Languages and packages used</h2>
 
 - MySQL
-- Python 3.9
+- Python 3.10
 
 <h2>Environments used </h2>
 
