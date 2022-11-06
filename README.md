@@ -20,14 +20,15 @@ This project consists of exploritory analysis of publicly available Airbnb data.
 
 <br />
 
-<h2>Languages and utilities used</h2>
+<h2>Languages and packages used</h2>
 
 - MySQL
-- Tableau
+- Python 3.9
 
 <h2>Environments used </h2>
 
-- DBeaver 22.2.2
+- VScode
+- Dbeaver 22.2.2
 
 <h2>Data source</h2>
 
@@ -37,6 +38,7 @@ This project consists of exploritory analysis of publicly available Airbnb data.
 <h2>Methods</h2>
 
 - Exploratory data analysis
+- Multivariate linear regression
 
 <h2>Data analysis process</h2>
 
