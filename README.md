@@ -128,7 +128,7 @@ This project consists of exploritory analysis of publicly available Airbnb data.
 <br/>
 <br/> 
   VIZUALIZATION PREVIEW:
-   <img src="https://i.imgur.com/hs9FuEm.png" height = "100%" width="100%" alt = "Results Snapshot: Top 25 Hosts sorted by dirty reviews per listing"/>
+   <img src="https://i.imgur.com/Cxw0PEU.png" height = "100%" width="100%" alt = "Results Snapshot: Top 25 Hosts sorted by dirty reviews per listing"/>
  - <a href="https://public.tableau.com/app/profile/riley.livingston/viz/Airbnbdirtyreviewproject/Dashboard1?publish=yes"> Tableau | Dashboard</a>
 <br />
 <br />
