@@ -89,7 +89,7 @@ This project consists of exploritory analysis of publicly available Airbnb data.
    - An inner join is made between the listings and reviews tables, returning columns where the listing id matches the id field from the review table AND where airbnb listing reviews in the comments column of the review table contain at least one of the specified dirty words contained in the LIKE statements.
  <br />
  <br />
-<img src="https://i.imgur.com/sATvJBe.png" height = "100%" width="100%" alt = ">SQL more filtering and group by order by conditions with explaination"/>
+<img src="https://i.imgur.com/HSBhnqs.png" height = "100%" width="100%" alt = ">SQL more filtering and group by order by conditions with explaination"/>
     - The inner join between the lstings and reviews tables are further filtered under the condtions that the length of the review_score_rating and review_score_cleanliness ratings are no greater than 4 characters in length.
   <br />
   <br />
