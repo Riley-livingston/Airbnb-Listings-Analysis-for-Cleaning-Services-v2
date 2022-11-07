@@ -75,7 +75,7 @@ This project consists of exploritory analysis of publicly available Airbnb data.
   - <a href="https://github.com/Riley-livingston/AirBnb-Project/blob/main/clean_and_filtered_airbnb_data_v2.csv"> Cleaned and filtered data.csv</a>
  <br />
  <br />
-<img src="https://i.imgur.com/ZkfqMyt.png" height = "100%" width="100%" alt = ">SQL select statement with explaination"/>
+<img src="https://i.imgur.com/AKSoy6j.png" height = "100%" width="100%" alt = ">SQL select statement with explaination"/>
    - From the listings table, host_id, host_name, and host_url are selected. host_url and host_id are used as primary keys for the listings table to unqiuely identify each host.
  <br />
  <br /> 
@@ -85,11 +85,11 @@ This project consists of exploritory analysis of publicly available Airbnb data.
    - Distinct comments are counted, selected from the reviews table, and aggregated into a new column called dirty_review_count that will count all distinct reviews that contain specified 'dirty review' words.
  <br />
  <br />
-<img src="https://i.imgur.com/Fr7ChSk.png" height = "100%" width="100%" alt = ">SQL Join statement and conditions for dirty reviews with explaination"/>
+<img src="https://i.imgur.com/6W9OrQM.png" height = "100%" width="100%" alt = ">SQL Join statement and conditions for dirty reviews with explaination"/>
    - An inner join is made between the listings and reviews tables, returning columns where the listing id matches the id field from the review table AND where airbnb listing reviews in the comments column of the review table contain at least one of the specified dirty words contained in the LIKE statements.
  <br />
  <br />
-<img src="https://i.imgur.com/Q31eJA5.png" height = "100%" width="100%" alt = ">SQL more filtering and group by order by conditions with explaination"/>
+<img src="https://i.imgur.com/sATvJBe.png" height = "100%" width="100%" alt = ">SQL more filtering and group by order by conditions with explaination"/>
     - The inner join between the lstings and reviews tables are further filtered under the condtions that the length of the review_score_rating and review_score_cleanliness ratings are no greater than 4 characters in length.
   <br />
   <br />
