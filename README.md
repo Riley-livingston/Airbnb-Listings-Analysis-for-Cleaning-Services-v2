@@ -85,7 +85,7 @@ This project consists of exploritory analysis of publicly available Airbnb data.
    - Distinct comments are counted, selected from the reviews table, and aggregated into a new column called dirty_review_count that will count all distinct reviews that contain specified 'dirty review' words.
  <br />
  <br />
-<img src="https://i.imgur.com/6W9OrQM.png" height = "100%" width="100%" alt = ">SQL Join statement and conditions for dirty reviews with explaination"/>
+<img src="https://i.imgur.com/me1O3cw.png" height = "100%" width="100%" alt = ">SQL Join statement and conditions for dirty reviews with explaination"/>
    - An inner join is made between the listings and reviews tables, returning columns where the listing id matches the id field from the review table AND where airbnb listing reviews in the comments column of the review table contain at least one of the specified dirty words contained in the LIKE statements.
  <br />
  <br />
