@@ -123,11 +123,9 @@ This project consists of exploritory analysis of publicly available Airbnb data.
 
 <br/>
 <br/> 
-  VIZUALIZATION PREVIEW:
    <img src="https://i.imgur.com/EZkpI68.png" height = "100%" width="100%" alt = "Results Snapshot: Top 25 Hosts sorted by dirty reviews per listing"/>
 <br />
 <br />
-  VIZUALIZATION PREVIEW:
    <img src="https://i.imgur.com/PQiOiG5.png" height = "100%" width="100%" alt = "Results Snapshot: Distribution and percentiles of Dirty Reviews per listing grouped by host"/>
 <br />
 <h2>Limitations and what can be improved </h2>
