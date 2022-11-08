@@ -12,7 +12,7 @@ The predicted impact of every dirty review on a listing is -0.21 days booked out
 <a href="https://github.com/Riley-livingston"> @RileyLivingston</a>
 
 <h2>Description</h2>
-This project consists of exploritory analysis and a multivariate linear regression of publicly available Airbnb data. This directory will guide you through the steps I took and thought process in determining the relationship between dirty reviews in Airbnb listings and days booked out of 90. Part 1 of the Airbnb Lsiitngs Analysis for Cleaning Services project can be found <a href="https://github.com/Riley-livingston/AirBnb-Listings-Analysis-for-Cleaning-Services"> here. </a>
+This project consists of exploritory analysis and a multivariate linear regression of publicly available Airbnb data. This directory will guide you through the steps I took and thought process in determining the relationship between dirty reviews in Airbnb listings and days booked out of 90. version 1 of the Airbnb Listings Analysis for Cleaning Services project can be found <a href="https://github.com/Riley-livingston/AirBnb-Listings-Analysis-for-Cleaning-Services"> here. </a>
 
 <br />
 
