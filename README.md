@@ -24,6 +24,7 @@ This project consists of exploritory analysis and a multivariate linear regressi
 <h2>Environments used </h2>
 
 - VScode
+- Jupyter Notebook
 - Dbeaver 22.2.2
 
 <h2>Data source</h2>
