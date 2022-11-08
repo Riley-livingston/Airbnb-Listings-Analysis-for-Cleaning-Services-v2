@@ -2,13 +2,7 @@
 
 <h1>Airbnb Analysis for Cleaning Services in NYC v2 - Active Directory </h1>
 <h2>Key Findings</h2>
- - At the 95% confidence level, dirty reviews per airbnb listing's impact on days booked out of 90 is insignificant
-  <br />
-  <br />
- - Dirty Reviews per listing p-vlaue = 0.138 |
-  <br />
-  <br />
- - Model Fit (R²) = .126
+ - The predicted impact of every dirty review on a listing is -0.21 days booked out of 90.  At the 95% confidence level, dirty reviews per airbnb listing's impact on days booked out of 90 is insignificant.
  
 
 
