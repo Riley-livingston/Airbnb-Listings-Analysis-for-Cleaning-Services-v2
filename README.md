@@ -5,8 +5,10 @@
  - At the 95% confidence level, dirty reviews per airbnb listing's impact on days booked out of 90 is insignificant
   <br />
   <br />
+ - Dirty Reviews per listing p-vlaue = 0.138 |
   <br />
   <br />
+ - Model Fit (R²) = .126
  
 
 
