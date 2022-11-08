@@ -143,6 +143,8 @@ This project consists of exploritory analysis of publicly available Airbnb data.
 <br />
 <img src="https://i.imgur.com/jL6f58Y.png" height = "100%" width="100%" alt = "Results Snapshot: Distribution and percentiles of Dirty Reviews per listing grouped by host"/>
 <br />
+<img src="https://i.imgur.com/c17Qvlf.png" height = "100%" width="100%" alt = "Results Snapshot: Distribution and percentiles of Dirty Reviews per listing grouped by host"/>
+<br />
 <br />
   - The data and results of the analysis are a snapshot of listings available from Airbnb on and before September 7th 2022. Hosts may remove or add listings at anytime and renters may post or delete reviews at anytime which may impact the results of the analysis. Seasonality bias may be present in the number of reviews that contain 'dirty' words indicating uncleanliness.</b>
 <br />
