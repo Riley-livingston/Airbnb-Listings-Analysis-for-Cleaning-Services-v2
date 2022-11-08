@@ -2,13 +2,12 @@
 
 <h1>Airbnb Analysis for Cleaning Services in NYC v2 - Active Directory </h1>
 <h2>Key Findings</h2>
- - 10% of Airbnb hosts have at least 4 dirty reviews per listing. The top 1% of Airbnb hosts have at least 12.84 dirty reviews per listing.
+ - At the 95% confidence level, dirty reviews per airbnb listing's impact on days booked out of 90 is insignificant
   <br />
   <br />
- - The Average Airbnb host has 1.9 dirty reviews per listing.
   <br />
   <br />
- - The top 25 Airbnb hosts have between 9 and 43 dirty reviews per listing.
+ 
 
 
 <h2>Authors</h2>
