@@ -3,7 +3,7 @@
 <h1>Airbnb Analysis for Cleaning Services in NYC v2 - Active Directory </h1>
 <h2>Key Findings</h2>
 
-The predicted impact of every dirty review on a listing is -0.21 days booked out of 90. However, at the 95% confidence level, dirty reviews per airbnb listing's impact on days booked out of 90 is insignificant.
+The predicted impact of every dirty review on a listing is -0.21 days booked out of 90. However, at the 95% confidence level, dirty reviews per listing's impact on days booked out of 90 is insignificant.
  
 
 
