@@ -128,13 +128,13 @@ This project consists of exploritory analysis and a multivariate linear regressi
 Limitations:
  <br />
  <br />
-  - The data and results of the analysis are a snapshot of listings available from Airbnb on and before September 7th 2022. Hosts may remove or add listings at anytime and renters may post or delete reviews at anytime which may impact the results of the analysis. Seasonality bias may be present in the number of reviews that contain 'dirty' words indicating uncleanliness.
+  -The data and results of the analysis are a snapshot of listings available from Airbnb on and before September 7th 2022. Hosts may remove or add listings at anytime and renters may post or delete reviews at anytime which may impact the results of the analysis. Seasonality bias may be present in the number of reviews that contain 'dirty' words indicating uncleanliness.
 <br />
 <br />
-  - The words used to measure dirty reviews are all weighted the same but each dirty review may differ in the severity of the uncleanliness. This would result in the beta coefficent of dirty reviews to over or understate the impact on bookings.
+  -The words used to measure dirty reviews are all weighted the same but each dirty review may differ in the severity of the uncleanliness. This would result in the beta coefficent of dirty reviews to over or understate the impact on bookings.
 <br />
 <br />
-  - A list of words was selected to search for dirty reviews in the communts column of the reviews table. This list may not represnted all of the ways a person would describe uncleanliness and lead to some reviews not being included in the analysis impacting the beta coefficent of the dirty review factor in the model's impact on bookings.
+  -A list of words was selected to search for dirty reviews in the communts column of the reviews table. This list may not represnted all of the ways a person would describe uncleanliness and lead to some reviews not being included in the analysis impacting the beta coefficent of the dirty review factor in the model's impact on bookings.
 <br/>
 <br/>
  Future improvements:
