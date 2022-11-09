@@ -43,11 +43,15 @@ This project consists of exploritory analysis and a multivariate linear regressi
 <p align="left">
  <u>Business task</u>:
  
-- Determine a high conversion rate client list that can be utulized by airbnb cleaning services in NYC using exploratory analysis.
+- Determine if there is a relationship between reviews that indicate uncleanliness of an airbnb listing and days booked out of a 90 day period.
+- If that relationship exists, what is the impact of every dirty review on average days booked out of 90 for a listing on Airbnb in NYC's 5 boroughs.
  
   - KEY METRICS
-    - number of distinct reviews that contain words signaling uncleanliness grouped by host
-    - number of distinct reviews that contain words signaling uncleanliness per listing grouped by host
+    - p-value, or statistical significance of the beta coefficent of the dirty_review variable/feature on days booked out of 90 for a listing.
+ 
+    - the vaule of the beta coefficent of the dirty review variable used in the model. A positve coefficent would indicate that dirty reviews have a postive impact on bookings while a negative beta coefficent would indicate a negative effect. Larger or smaller beta coefficents would indicate a larger impact on bookings.
+
+    - R² or overall fit of the model. An R² closer to one would indicate that the model is really good at predicting bookings fot the next 90 days.
  
 <br />
 <p align="left">
