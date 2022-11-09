@@ -95,9 +95,6 @@ This project consists of exploritory analysis and a multivariate linear regressi
     - 
   <br />
   <br />
-    -
-  <br />
-  <br />
    
   <u>Key findings</u>:
   <br />
