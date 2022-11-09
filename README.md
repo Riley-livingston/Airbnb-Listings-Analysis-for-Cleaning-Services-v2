@@ -81,12 +81,7 @@ This project consists of exploritory analysis and a multivariate linear regressi
    - 
  <br />
  <br /> 
-   - 
- <br />
- <br />
-   - 
- <br />
- <br />
+ 
 <img src="https://i.imgur.com/Vhpkstx.png" height = "100%" width="100%" alt = ">SQL Join statement and conditions for dirty reviews with explaination"/>
    -
  <br />
