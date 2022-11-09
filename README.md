@@ -105,16 +105,16 @@ This project consists of exploritory analysis and a multivariate linear regressi
 <u>Analysis</u>:  
   <br/>
   <br />
- - In Tableau, dirty reviews per listing were calcualted for each host and the results were sorted in descending order. 
+ - 
  <br />
  <br />
- - I constructed a dual axis barchart showing the top 25 hosts in the NYC's 5 boroughs sorted by dirty reviews per listing and total dirty reviews. In the tooltip, I embeded the link to the hosts unique Airbnb Url so that if the dashboards are used as a potential client list, contact information will be easily acessable.
+ - 
  <br />
  <br />
- - Accross all hosts, median, 90th, and 99th perentiles for dirty reviews per listing were calculated.
+ - 
  <br />
  <br />
- - I included a <a href="https://public.tableau.com/app/profile/riley.livingston/viz/Airbnbdirtyreviewproject/Dashboard2?publish=yes"> dynamic histogram </a> that can be used as a filter for targeting hosts in a specific dirty review per listing bin. To use this, click on a bin and the packed bubble diagram will filter results to only include hosts from the bin you selected.
+ - 
 
  <br />
  <br />
