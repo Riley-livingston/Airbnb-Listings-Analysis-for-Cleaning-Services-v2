@@ -19,7 +19,8 @@ This project consists of exploritory analysis and a multivariate linear regressi
 <h2>Languages and packages used</h2>
 
 - MySQL
-- Python 3.10
+- Python 3.10 | Numpy | Pandas | Sklearn
+  
 
 <h2>Environments used </h2>
 
