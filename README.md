@@ -102,7 +102,7 @@ This project consists of exploritory analysis and a multivariate linear regressi
   <u>Key findings</u>:
   <br />
   <br />
-   -At the 95% confidence level, dirty reviews per listing's impact on days booked out of 90 is insignificant with a p-value of 0.138
+   - At the 95% confidence level, dirty reviews per listing's impact on days booked out of 90 is insignificant with a p-value of 0.138.
   <br />
   <br />
    - Overall fit of the model to the data (R²) is 0.126.
