@@ -106,9 +106,9 @@ This project consists of exploritory analysis and a multivariate linear regressi
   <br />
 <u>Analysis</u>:  
   <br />
-  <br />
   <a href="https://github.com/Riley-livingston/Airbnb-Listings-Analysis-for-Cleaning-Services-v2/blob/main/airbnb_analysis_for_cleaning_services_v2.ipynb"> Jupyter Notebook Analysis </a>
-  <br/> 
+  <br />
+  <br />
    <img src="https://i.imgur.com/EZkpI68.png" height = "100%" width="100%" alt = "Results Snapshot: Top 25 Hosts sorted by dirty reviews per listing"/>
 <br />
 <br />
