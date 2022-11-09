@@ -107,6 +107,7 @@ This project consists of exploritory analysis and a multivariate linear regressi
 <u>Analysis</u>:  
   <br />
   <br />
+  <a href=""> Jupyter Notebook Analysis </a>
   <br/> 
    <img src="https://i.imgur.com/EZkpI68.png" height = "100%" width="100%" alt = "Results Snapshot: Top 25 Hosts sorted by dirty reviews per listing"/>
 <br />
