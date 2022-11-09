@@ -74,7 +74,7 @@ This project consists of exploritory analysis and a multivariate linear regressi
 <u>Documentation of data processing and cleaning</u>: <br/>
   - <a href="https://github.com/Riley-livingston/Airbnb-Listings-Analysis-for-Cleaning-Services-v2/blob/main/dirty_reviews_v2.sql"> SQL script to clean and filter the data.sql</a>
  <br />
-  - <a href="https://github.com/Riley-livingston/AirBnb-Project/blob/main/clean_and_filtered_airbnb_data_v2.csv"> Cleaned and filtered data.csv</a>
+  - <a href="https://github.com/Riley-livingston/Airbnb-Listings-Analysis-for-Cleaning-Services-v2/blob/main/clean_and_filtered_airbnb_data_v2.csv"> Cleaned and filtered data.csv</a>
  <br />
  <br />
 <img src="https://i.imgur.com/AKSoy6j.png" height = "100%" width="100%" alt = ">SQL select statement with explaination"/>
