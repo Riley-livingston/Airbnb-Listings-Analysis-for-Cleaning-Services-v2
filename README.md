@@ -121,11 +121,11 @@ This project consists of exploritory analysis and a multivariate linear regressi
  <u>Key findings</u>:
   <br />
   <br />
-  - 10% of Airbnb hosts have at least 4 dirty reviews per listing. The top 1% of Airbnb hosts have at least 12.84 dirty reviews per listing.
+   -At the 95% confidence level, dirty reviews per listing's impact on days booked out of 90 is insignificant with a p-value of 0.138
   <br />
- - The Average Airbnb host has 1.9 dirty reviews per listing.
+ - overall model fit (R²) of 0.126.
   <br />
- - The top 25 Airbnb hosts have between 9 and 43 dirty reviews per listing.
+ - The beta coefficent of the dirty reviews feature is -0.21 indicating that every dirty review is expected to decrease average days booked out of 90 by 0.21 days.
 
 <br/>
 <br/> 
