@@ -95,10 +95,10 @@ This project consists of exploritory analysis and a multivariate linear regressi
     - 
   <br />
   <br />
-    - The maximum number of reviews of any given listing is 999 so the maximum length of the number_of_reviews column was set to 3 in order to filter out potential invalid data.
+    -
   <br />
   <br />
-    - The query is fianlly grouped by host_id and host_url and then ordered by the total number of dirty reviews counted in descending order as a way to gain immediate insight into potential customers to contact for cleaning services.
+    - 
   <br />
   <br />
   <br />
