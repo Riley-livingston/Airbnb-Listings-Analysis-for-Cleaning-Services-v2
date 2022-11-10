@@ -85,7 +85,11 @@ This project consists of exploritory analysis and a multivariate linear regressi
  <br /> 
  
 <img src="https://i.imgur.com/Vhpkstx.png" height = "100%" width="100%" alt = ">SQL Join statement and conditions for dirty reviews with explaination"/>
-   -
+   - The first part of the where statement includes a list of words that serve as conditions for returning a count of distinct dirty reviews a listing has.
+   <br />
+   - I included the most popular words by usage that indicate uncleanliness. 
+   <br />
+   - Each distinct review will be counted where any one or more of these words listed shows up. Reviews where these words dont show up will not be counted in the dirty review count feature. 
  <br />
  <br />
 <img src="https://i.imgur.com/HSBhnqs.png" height = "100%" width="100%" alt = ">SQL more filtering and group by order by conditions with explaination"/>
