@@ -93,7 +93,13 @@ This project consists of exploritory analysis and a multivariate linear regressi
  <br />
  <br />
 <img src="https://i.imgur.com/HSBhnqs.png" height = "100%" width="100%" alt = ">SQL more filtering and group by order by conditions with explaination"/>
-    - 
+    - The second part of the where statement includes conditions that only return rows where listings are booked at less than 365 days out of 365. The reasoning behind this was Airbnb doesnt differeienciate between unavailable and fully booked listings. Listings displayed as 365 days booked are extremely likely to be simply unavailable rather than booked for an entire year. THe same logic applies to listings that are booked 0 days in the next 365
+ <br />
+  - Rows are filtered out where price per night is less than $2. a few listings exist in the data where the price is either 2 or 1 dollar. This is innacurate information and excluded from the analysis.
+ <br />
+ - The query is grouped by listing url and listing id to ensure that each row represnts a unique listing.
+ <br />
+ - The query is finally ordered by dirty review count and host_id in order to gain immediate insight into the lsiitngs with the most dirty reviews.
   <br />
   <br />
    
