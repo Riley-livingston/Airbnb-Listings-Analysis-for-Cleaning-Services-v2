@@ -78,7 +78,9 @@ This project consists of exploritory analysis and a multivariate linear regressi
  <br />
  <br />
 <img src="https://i.imgur.com/AKSoy6j.png" height = "100%" width="100%" alt = ">SQL select statement with explaination"/>
-   - 
+   - Days a listing is booked out of 90 is calculated by substracting 90 from the availability_90 feature. This calculated feature will be the target variable in this analysis, The feature that is being predicted.
+   <br />
+   - Distinct reviews are counted in the select statement. The impact of reviews with the condition of them indicating uncleanliness will be the feature of interest in this analysis.
  <br />
  <br /> 
  
