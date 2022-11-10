@@ -80,6 +80,7 @@ This project consists of exploritory analysis and a multivariate linear regressi
 <img src="https://i.imgur.com/AKSoy6j.png" height = "100%" width="100%" alt = ">SQL select statement with explaination"/>
    - Days a listing is booked out of 90 is calculated by substracting 90 from the availability_90 feature. This calculated feature will be the target variable in this analysis, The feature that is being predicted.
    <br />
+   <br />
    - Distinct reviews are counted in the select statement. The impact of review count with the condition of them indicating uncleanliness will be the feature of interest in this analysis.
  <br />
  <br /> 
@@ -87,7 +88,9 @@ This project consists of exploritory analysis and a multivariate linear regressi
 <img src="https://i.imgur.com/Vhpkstx.png" height = "100%" width="100%" alt = ">SQL Join statement and conditions for dirty reviews with explaination"/>
    - The first part of the where statement includes a list of words that serve as conditions for returning a count of distinct dirty reviews a listing has.
    <br />
+   <br />
    - I included the most popular words by usage that indicate uncleanliness. 
+   <br />
    <br />
    - Each distinct review will be counted where any one or more of these words listed shows up. Reviews where these words dont show up will not be counted in the dirty review count feature. 
  <br />
@@ -95,9 +98,12 @@ This project consists of exploritory analysis and a multivariate linear regressi
 <img src="https://i.imgur.com/HSBhnqs.png" height = "100%" width="100%" alt = ">SQL more filtering and group by order by conditions with explaination"/>
     - The second part of the where statement includes conditions that only return rows where listings are booked at less than 365 days out of 365. The reasoning behind this was Airbnb doesnt differeienciate between unavailable and fully booked listings. Listings displayed as 365 days booked are extremely likely to be simply unavailable rather than booked for an entire year. THe same logic applies to listings that are booked 0 days in the next 365
  <br />
+ <br />
   - Rows are filtered out where price per night is less than $2. a few listings exist in the data where the price is either 2 or 1 dollar. This is innacurate information and excluded from the analysis.
  <br />
+ <br />
  - The query is grouped by listing url and listing id to ensure that each row represnts a unique listing.
+ <br />
  <br />
  - The query is finally ordered by dirty review count and host_id in order to gain immediate insight into the lsiitngs with the most dirty reviews.
   <br />
