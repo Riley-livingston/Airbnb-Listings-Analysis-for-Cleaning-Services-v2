@@ -114,23 +114,6 @@ This project consists of exploritory analysis and a multivariate linear regressi
   <a href="https://github.com/Riley-livingston/Airbnb-Listings-Analysis-for-Cleaning-Services-v2/blob/main/airbnb_analysis_for_cleaning_services_v2.ipynb"> Jupyter Notebook Full ipynb File </a>
   <br />
   <br />
-   <img src="https://i.imgur.com/EZkpI68.png" height = "100%" width="100%" alt = "Results Snapshot: Top 25 Hosts sorted by dirty reviews per listing"/>
-<br />
-<br />
-   <img src="https://i.imgur.com/PQiOiG5.png" height = "100%" width="100%" alt = "Results Snapshot: Distribution and percentiles of Dirty Reviews per listing grouped by host"/>
-<br />
-<br />
- <img src="https://i.imgur.com/lJwsSmK.png" height = "100%" width="100%" alt = "Results Snapshot: Distribution and percentiles of Dirty Reviews per listing grouped by host"/>
-<br />
-<img src="https://i.imgur.com/jL6f58Y.png" height = "100%" width="100%" alt = "Results Snapshot: Distribution and percentiles of Dirty Reviews per listing grouped by host"/>
-<br />
-<img src="https://i.imgur.com/c17Qvlf.png" height = "100%" width="100%" alt = "Results Snapshot: Distribution and percentiles of Dirty Reviews per listing grouped by host"/>
-<br />
-<img src="https://i.imgur.com/CMc4eOX.png" height = "100%" width="100%" alt = "Results Snapshot: Distribution and percentiles of Dirty Reviews per listing grouped by host"/>
-<br />
-<img src="https://i.imgur.com/iQ55qYy.png" height = "100%" width="100%" alt = "Results Snapshot: Distribution and percentiles of Dirty Reviews per listing grouped by host"/>
-<br />
-<br />
  
 <u>Key findings</u>:
 <br />
