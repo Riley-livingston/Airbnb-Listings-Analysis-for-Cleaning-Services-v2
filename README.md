@@ -146,5 +146,5 @@ Limitations:
 -To further improve the model in predicting bookings, a backward stepwise regression apporach can be used to determine what features in the model are statistically significant in the overall model fit. An F test can be used to compare models and ultimatly arrive at the model that best fits the population.
 <br />
 <br />
--Inserting a new column that contains strings 'dirty' words we want to search for in the comments column. This would improve readability in the sql script as we could use the IN opoerator to search for words in a set of values rather than many OR and LIKE statements.
+-Inserting a new column that contains strings of 'dirty' words we want to search for in the comments column. This would improve readability in the sql script as we could use the IN opoerator to search for words in a set of values rather than many OR and LIKE statements.
 
