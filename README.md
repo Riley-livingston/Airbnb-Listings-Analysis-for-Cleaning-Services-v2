@@ -3,7 +3,7 @@
 <h1>Airbnb Analysis for Cleaning Services in NYC v2 - Active Directory </h1>
 <h2>Key Findings</h2>
 
-The predicted impact of every dirty review on a listing is -0.036 days booked out of 90. At the 95% confidence level, dirty reviews per listing's impact on days booked out of 90 is significant at the 95% confidence levelvwith a p-value of 0.032 and an overall model fit (R²) of 0.126.
+The predicted impact of every dirty review on a listing is -0.036 days booked out of 90. At the 95% confidence level, dirty reviews per listing's impact on days booked out of 90 is significant with a p-value of 0.032 and an overall model fit (R²) of 0.126.
  
 
 
@@ -49,9 +49,9 @@ This project consists of exploritory analysis and a multivariate linear regressi
   - KEY METRICS
     - p-value, or statistical significance of the beta coefficent of the dirty_review variable/feature on days booked out of 90 for a listing.
  
-    - the vaule of the beta coefficent of the dirty review variable used in the model. A positve coefficent would indicate that dirty reviews have a postive impact on bookings while a negative beta coefficent would indicate a negative effect. Larger or smaller beta coefficents would indicate a larger impact on bookings.
+    - the vaule of the beta coefficent of the dirty review variable used in the model. A positve coefficent would indicate that dirty reviews have a postive impact on bookings while a negative beta coefficent would indicate a negative impact. A larger or smaller beta coefficents would indicate a larger impact on bookings.
 
-    - R² or overall fit of the model. An R² closer to one would indicate that the model is really good at predicting bookings fot the next 90 days.
+    - R² or overall fit of the model. An R² closer to one would indicate that the model is really good at predicting bookings for the next 90 days.
  
 <br />
 <p align="left">
@@ -81,7 +81,7 @@ This project consists of exploritory analysis and a multivariate linear regressi
    - Days a listing is booked out of 90 is calculated by substracting 90 from the availability_90 feature. This calculated feature will be the target variable in this analysis, The feature that is being predicted.
    <br />
    <br />
-   - Distinct reviews are counted in the select statement. The impact of review count with the condition of them indicating uncleanliness will be the feature of interest in this analysis.
+   - Distinct reviews are counted in the select statement. The impact of review count with the condition of indicating uncleanliness will be the feature of interest in [redicting bookings in this analysis.
  <br />
  <br /> 
  
