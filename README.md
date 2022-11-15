@@ -49,7 +49,7 @@ This project consists of exploritory analysis and a multivariate linear regressi
   - KEY METRICS
     - p-value, or statistical significance of the beta coefficent of the dirty_review variable/feature on days booked out of 90 for a listing.
  
-    - the vaule of the beta coefficent of the dirty review variable used in the model. A positve coefficent would indicate that dirty reviews have a postive impact on bookings while a negative beta coefficent would indicate a negative impact. A larger or smaller beta coefficents would indicate a larger impact on bookings.
+    - the value of the beta coefficent of the dirty review variable used in the model. A positve coefficent would indicate that dirty reviews have a postive impact on bookings while a negative beta coefficent would indicate a negative impact. A larger or smaller beta coefficents would indicate a larger impact on bookings.
 
     - R² or overall fit of the model. An R² closer to one would indicate that the model is really good at predicting bookings for the next 90 days.
  
