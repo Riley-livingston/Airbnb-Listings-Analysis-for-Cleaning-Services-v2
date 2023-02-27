@@ -106,9 +106,7 @@ This project consists of exploritory analysis and a multivariate linear regressi
  <br />
   <li> Rows are filtered out where price per night is less than $2. a few listings exist in the data where the price is either 2 or 1 dollar. This is innacurate information and excluded from the analysis.</li>
  <br />
- <br />
  <li> The query is grouped by listing url and listing id to ensure that each row represnts a unique listing.</li>
- <br />
  <br />
  <li> The query is finally ordered by dirty review count and host_id in order to gain immediate insight into the lsiitngs with the most dirty reviews.</li>
  </ul>
@@ -127,9 +125,7 @@ This project consists of exploritory analysis and a multivariate linear regressi
 <ul>
   <li> At the 95% confidence level, dirty reviews per listing's impact on days booked out of 90 is insignificant with a p-value of 0.138.</li>
 <br />
-<br />
  <li> Overall fit of the model to the data (R²) is 0.126. </li>
-<br />
 <br />
   <li> The beta coefficent of the dirty reviews feature is -0.21 indicating that every dirty review is expected to decrease average days booked out of 90 by 0.21 days </li>
  </ul>
@@ -145,7 +141,6 @@ Limitations:
 <br />
   <li> The words used to measure dirty reviews are all weighted the same but each dirty review may differ in the severity of the uncleanliness. This would result in the beta coefficent of dirty reviews to over or understate the impact on bookings. </li>
 <br />
-<br />
   <li> A list of words was selected to search for dirty reviews in the communts column of the reviews table. This list may not represnted all of the ways a person would describe uncleanliness and lead to some reviews not being included in the analysis impacting the beta coefficent of the dirty review factor in the model's impact on bookings. </li>
  </ul>
 <br/>
@@ -154,7 +149,6 @@ Limitations:
 <br>
 <ul>
 <li> To further improve the model in predicting bookings, a backward stepwise regression apporach can be used to determine what features in the model are statistically significant in the overall model fit. An F test can be used to compare models and ultimatly arrive at the model that best fits the population. </li>
-<br>
- </br>
+<br>>
 <li> Inserting a new column that contains strings of 'dirty' words we want to search for in the comments column. This would improve readability in the sql script as we could use the IN opoerator to search for words in a set of values rather than many OR and LIKE statements.</ul>
 
